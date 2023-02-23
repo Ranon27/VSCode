@@ -1,0 +1,7 @@
+{
+    "label": "🏃‍♂️ Run demo",
+    "command": "npm",
+    "args": [
+        "start"
+    ]
+}
